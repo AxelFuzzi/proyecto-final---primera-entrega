@@ -38,7 +38,7 @@
 Para ejecutar en local:   
 `npm start`
 
-Demo en Glitch: 
+
 
  
 
